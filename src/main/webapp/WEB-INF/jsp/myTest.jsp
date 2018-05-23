@@ -79,7 +79,6 @@ $(document).ready(function(){
 		<button id="selAll">findAllStus</button>
 	</div>
 	
-	<div id="res">
-	</div>
+	<div id="res">----------------工作区新加----------------</div>
 </body>
 </html>
